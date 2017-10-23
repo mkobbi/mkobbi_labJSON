@@ -1,0 +1,24 @@
+{
+	"_id" : ObjectId("59e7702b1df8fe3dc019522e"),
+	"info" : {
+		"birthnotes" : [
+			"Cincinnati, Ohio, USA"
+		]
+	}
+}
+{
+	"_id" : ObjectId("59e771241df8fe3dc01959fd"),
+	"info" : {
+		"birthnotes" : [
+			"Cincinnati, Ohio, USA"
+		]
+	}
+}
+{
+	"_id" : ObjectId("59ee17e3a90e9ba6854cb13a"),
+	"info" : {
+		"birthnotes" : [
+			"Cincinnati, Ohio, USA"
+		]
+	}
+}

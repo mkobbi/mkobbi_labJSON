@@ -1,0 +1,88 @@
+{
+	"_id" : ObjectId("59e7702b1df8fe3dc01950cf"),
+	"person-name" : "Teixeira, Anabela",
+	"info" : {
+		"trivia" : [
+			"Her favorite actor is 'Marcello Mastroianni' (qv) and her favorite actress is 'Juliette Binoche' (qv).",
+			"Partner of musician Frederico Pereira.",
+			"Has two brothers, one biological and one adopted.",
+			"Vice-President of the Portuguese Cinema Academy.",
+			"She was first noticed by the public with the Tv series A Viúva do Enforcado (1992).",
+			"Made her theater debut in 1992 in the play Os Processos of Dostolevsky.",
+			"Did some workshops of dance: dance in movement with Peter Diez and dance classes with Madalena Vitorino.",
+			"Besides Portuguese, she speaks English and French."
+		],
+		"birthnotes" : [
+			"Lisbon, Portugal"
+		],
+		"birthdate" : [
+			"18 May 1973"
+		],
+		"birthname" : [
+			"Teixeira, Anabela Cristina Alves"
+		],
+		"interviews" : [
+			"TV Guia (Portugal), 1997, Iss. 960, pg. 24-25, by: Pedro Teixeira",
+			"A Capital (Portugal), 30 April 1998, pg. 55, by: Helena Mata"
+		]
+	}
+}
+{
+	"_id" : ObjectId("59e771241df8fe3dc0195898"),
+	"person-name" : "Teixeira, Anabela",
+	"info" : {
+		"trivia" : [
+			"Her favorite actor is 'Marcello Mastroianni' (qv) and her favorite actress is 'Juliette Binoche' (qv).",
+			"Partner of musician Frederico Pereira.",
+			"Has two brothers, one biological and one adopted.",
+			"Vice-President of the Portuguese Cinema Academy.",
+			"She was first noticed by the public with the Tv series A Viúva do Enforcado (1992).",
+			"Made her theater debut in 1992 in the play Os Processos of Dostolevsky.",
+			"Did some workshops of dance: dance in movement with Peter Diez and dance classes with Madalena Vitorino.",
+			"Besides Portuguese, she speaks English and French."
+		],
+		"birthnotes" : [
+			"Lisbon, Portugal"
+		],
+		"birthdate" : [
+			"18 May 1973"
+		],
+		"birthname" : [
+			"Teixeira, Anabela Cristina Alves"
+		],
+		"interviews" : [
+			"TV Guia (Portugal), 1997, Iss. 960, pg. 24-25, by: Pedro Teixeira",
+			"A Capital (Portugal), 30 April 1998, pg. 55, by: Helena Mata"
+		]
+	}
+}
+{
+	"_id" : ObjectId("59ee17e3a90e9ba6854cafe0"),
+	"person-name" : "Teixeira, Anabela",
+	"info" : {
+		"trivia" : [
+			"Her favorite actor is 'Marcello Mastroianni' (qv) and her favorite actress is 'Juliette Binoche' (qv).",
+			"Partner of musician Frederico Pereira.",
+			"Has two brothers, one biological and one adopted.",
+			"Vice-President of the Portuguese Cinema Academy.",
+			"She was first noticed by the public with the Tv series A Viúva do Enforcado (1992).",
+			"Made her theater debut in 1992 in the play Os Processos of Dostolevsky.",
+			"Did some workshops of dance: dance in movement with Peter Diez and dance classes with Madalena Vitorino.",
+			"Besides Portuguese, she speaks English and French."
+		],
+		"birthnotes" : [
+			"Lisbon, Portugal"
+		],
+		"birthdate" : [
+			"18 May 1973"
+		],
+		"birthname" : [
+			"Teixeira, Anabela Cristina Alves"
+		],
+		"interviews" : [
+			"TV Guia (Portugal), 1997, Iss. 960, pg. 24-25, by: Pedro Teixeira",
+			"A Capital (Portugal), 30 April 1998, pg. 55, by: Helena Mata"
+		]
+	}
+}
+
