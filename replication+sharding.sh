@@ -51,11 +51,12 @@ mongo --port 27015
   {
     _id : "citydata",
     members: [
-      { _id : 0, host : "localhost:27015" },
-      { _id : 1, host : "localhost:27016" },
+      { _id : 0, host : "localhost:27015" }
     ]
   }
 )
+rs.conf()
+rs.add("localhost:27016")
 > exit
 mongos --configdb  city/localhost:27010 --chunkSize 1 --port 27020
 mongoimport --db labJSON  --collection cities --file cities.json --port 27015
