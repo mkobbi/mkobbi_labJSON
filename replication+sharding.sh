@@ -59,7 +59,7 @@ rs.conf()
 rs.add("localhost:27016")
 > exit
 mongos --configdb  city/localhost:27010 --chunkSize 1 --port 27020
-mongoimport --db labJSON  --collection cities --file cities.json --port 27015
+mongoimport  --collection cities --file cities.json --port 27015
 mongo localhost:27020/admin 
 > sh.addShard( "citydata/localhost:27015")
 > sh.addShard( "citydata/localhost:27016")
